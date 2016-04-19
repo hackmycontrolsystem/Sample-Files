@@ -1,0 +1,1 @@
+The files in this directory belong to root and the samurai user doesn't not have permission to edit them.  This is to prevent accidental deletion or modification.  If you want to modify these files, please copy them to a directory you can edit.
